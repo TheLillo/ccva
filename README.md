@@ -1,9 +1,5 @@
 # ccva
 
-## Created By 
-* [Fabbrei](https://github.com/Fabbrei)
-* [TheLillo](https://github.com/TheLillo)
-
 ### Prerequisites
 An installed version of WinRar.
 
@@ -21,7 +17,10 @@ p.s. i am NOT responsible for any damages or data loss. If you will contact me
 
 ![ccva](http://i.imgur.com/Zagn4xf.jpg)
 
-### THANKS 
--Thanks to [cttynul](https://github.com/cttynul) and [BurningHam](https://github.com/BurningHAM18) for the idea of the software <3
+### Authors
+* [BurningHam](https://github.com/BurningHAM18)
+* [cttynul](https://github.com/cttynul)
+* [Fabbrei](https://github.com/Fabbrei)
+* [TheLillo](https://github.com/TheLillo)
 
-** Copyright (c) 2016, 2017 BurningHAM18, cttynul **
+** Copyright (c) 2016, 2017 [BurningHam](https://github.com/BurningHAM18), [cttynul](https://github.com/cttynul) **
